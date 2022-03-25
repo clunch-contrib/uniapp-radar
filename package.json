@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@clunch/radar": "^0.1.0",
+    "clunch": "^2.3.6"
+  }
+}
